@@ -33,9 +33,7 @@ This means: send the audio with index 1, three times in loop, with volume set to
 
 # Audio Library
 
-The default library is waves.xwb, a Wave Banks. You can edit this (using waves.xap) or create more using XACT, the [Cross-platform Audio Creation Tool](https://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool)
-These libraries are loaded in memory and are very fast, for the least possible latency
-The default library currently contains 6 very short waveforms, indexed from 0 to 5
+The default library is waves.xwb, a Wave Banks. You can edit this (using waves.xap) or create more using XACT, the [Cross-platform Audio Creation Tool](https://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool). These libraries are loaded in memory and are very fast, for the least possible latency. The default library currently contains 6 very short waveforms, indexed from 0 to 5
 
 ```
 0 - 40Hz
