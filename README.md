@@ -14,7 +14,7 @@ Execute "OpenVR Haptic Injector.bat", likely the first time it will not find a c
 
 Map is a sound sent to the sound card when a haptic event occurs, can be chosen from a library and modified in duration (loop) and volume
 
-Play your game, all detected haptic events will be shown, with Amplitude, Duration and Frequency values. Initially the program doesn't know any events and will send a default map (see the [default] section of config.ini) for any events.
+Play your game, all detected haptic events will be shown, with Amplitude, Duration and Frequency values. Initially the program doesn't know any events and will send a default map (see the [default] section of config.ini) for any event.
 
 Take note to the last string printed below the events, ie:
 
