@@ -16,8 +16,8 @@ Global Settings
     Header File = waves.h;
     Exclude Category Names = 0;
     Exclude Variable Names = 0;
-    Last Modified Low = 1402496442;
-    Last Modified High = 30757167;
+    Last Modified Low = 1542261882;
+    Last Modified High = 30757440;
 
     Category
     {
@@ -227,17 +227,17 @@ Wave Bank
     Compression Preset Name = <none>;
     Xbox Bank Last Modified Low = 0;
     Xbox Bank Last Modified High = 0;
-    PC Bank Last Modified Low = 1402576338;
-    PC Bank Last Modified High = 30757167;
-    Bank Last Revised Low = 1321668916;
-    Bank Last Revised High = 30757167;
+    PC Bank Last Modified Low = 1542571902;
+    PC Bank Last Modified High = 30757440;
+    Bank Last Revised Low = 1348807036;
+    Bank Last Revised High = 30757440;
 
     Wave
     {
         Name = 40hz-short;
-        File = ..\..\..\..\..\..\..\musica\test-tones\short\40hz-short.wav;
-        Build Settings Last Modified Low = 1179815347;
-        Build Settings Last Modified High = 30757167;
+        File = ..\..\..\wave\40hz-short.wav;
+        Build Settings Last Modified Low = 1204933344;
+        Build Settings Last Modified High = 30757439;
 
         Cache
         {
@@ -246,21 +246,21 @@ Wave Bank
             Sampling Rate = 44100;
             Bits Per Sample = 1;
             Play Region Offset = 44;
-            Play Region Length = 6624;
+            Play Region Length = 2210;
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 1307845685;
-            Last Modified High = 30757166;
+            Last Modified Low = 4275905280;
+            Last Modified High = 30757438;
         }
     }
 
     Wave
     {
         Name = 50hz-short;
-        File = ..\..\..\..\..\..\..\musica\test-tones\short\50hz-short.wav;
-        Build Settings Last Modified Low = 1242793174;
-        Build Settings Last Modified High = 30757167;
+        File = ..\..\..\wave\50hz-short.wav;
+        Build Settings Last Modified Low = 1223067775;
+        Build Settings Last Modified High = 30757439;
 
         Cache
         {
@@ -269,21 +269,21 @@ Wave Bank
             Sampling Rate = 44100;
             Bits Per Sample = 1;
             Play Region Offset = 44;
-            Play Region Length = 5300;
+            Play Region Length = 1764;
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 541287021;
-            Last Modified High = 30757166;
+            Last Modified Low = 3472709705;
+            Last Modified High = 30757438;
         }
     }
 
     Wave
     {
         Name = 60hz-short;
-        File = ..\..\..\..\..\..\..\musica\test-tones\short\60hz-short.wav;
-        Build Settings Last Modified Low = 1264619975;
-        Build Settings Last Modified High = 30757167;
+        File = ..\..\..\wave\60hz-short.wav;
+        Build Settings Last Modified Low = 1242976879;
+        Build Settings Last Modified High = 30757439;
 
         Cache
         {
@@ -292,21 +292,21 @@ Wave Bank
             Sampling Rate = 44100;
             Bits Per Sample = 1;
             Play Region Offset = 44;
-            Play Region Length = 4416;
+            Play Region Length = 1470;
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 3976680754;
-            Last Modified High = 30757165;
+            Last Modified Low = 2842699863;
+            Last Modified High = 30757438;
         }
     }
 
     Wave
     {
         Name = 80hz-short;
-        File = ..\..\..\..\..\..\..\musica\test-tones\short\80hz-short.wav;
-        Build Settings Last Modified Low = 1285173137;
-        Build Settings Last Modified High = 30757167;
+        File = ..\..\..\wave\80hz-short.wav;
+        Build Settings Last Modified Low = 1261500658;
+        Build Settings Last Modified High = 30757439;
 
         Cache
         {
@@ -315,21 +315,21 @@ Wave Bank
             Sampling Rate = 44100;
             Bits Per Sample = 1;
             Play Region Offset = 44;
-            Play Region Length = 3312;
+            Play Region Length = 1104;
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 2854493527;
-            Last Modified High = 30757166;
+            Last Modified Low = 2045870991;
+            Last Modified High = 30757438;
         }
     }
 
     Wave
     {
         Name = 100hz-short;
-        File = ..\..\..\..\..\..\..\musica\test-tones\short\100hz-short.wav;
-        Build Settings Last Modified Low = 1303275262;
-        Build Settings Last Modified High = 30757167;
+        File = ..\..\..\wave\100hz-short.wav;
+        Build Settings Last Modified Low = 1281481304;
+        Build Settings Last Modified High = 30757439;
 
         Cache
         {
@@ -338,21 +338,21 @@ Wave Bank
             Sampling Rate = 44100;
             Bits Per Sample = 1;
             Play Region Offset = 44;
-            Play Region Length = 2650;
+            Play Region Length = 882;
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 2512551298;
-            Last Modified High = 30757163;
+            Last Modified Low = 917509118;
+            Last Modified High = 30757438;
         }
     }
 
     Wave
     {
         Name = 120hz-short;
-        File = ..\..\..\..\..\..\..\musica\test-tones\short\120hz-short.wav;
-        Build Settings Last Modified Low = 1321668916;
-        Build Settings Last Modified High = 30757167;
+        File = ..\..\..\wave\120hz-short.wav;
+        Build Settings Last Modified Low = 1301798282;
+        Build Settings Last Modified High = 30757439;
 
         Cache
         {
@@ -361,12 +361,104 @@ Wave Bank
             Sampling Rate = 44100;
             Bits Per Sample = 1;
             Play Region Offset = 44;
-            Play Region Length = 2206;
+            Play Region Length = 736;
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 217601843;
-            Last Modified High = 30757167;
+            Last Modified Low = 1655083522;
+            Last Modified High = 30757426;
+        }
+    }
+
+    Wave
+    {
+        Name = 140hz-short;
+        File = ..\..\..\wave\140hz-short.wav;
+        Build Settings Last Modified Low = 1282147211;
+        Build Settings Last Modified High = 30757440;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 632;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3177918119;
+            Last Modified High = 30757439;
+        }
+    }
+
+    Wave
+    {
+        Name = 160hz-short;
+        File = ..\..\..\wave\160hz-short.wav;
+        Build Settings Last Modified Low = 1304312883;
+        Build Settings Last Modified High = 30757440;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 552;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3942401125;
+            Last Modified High = 30757439;
+        }
+    }
+
+    Wave
+    {
+        Name = 180hz-short;
+        File = ..\..\..\wave\180hz-short.wav;
+        Build Settings Last Modified Low = 1324954948;
+        Build Settings Last Modified High = 30757440;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 492;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 478806392;
+            Last Modified High = 30757440;
+        }
+    }
+
+    Wave
+    {
+        Name = 200hz-short;
+        File = ..\..\..\wave\200hz-short.wav;
+        Build Settings Last Modified Low = 1348807036;
+        Build Settings Last Modified High = 30757440;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 444;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1177050625;
+            Last Modified High = 30757440;
         }
     }
 }
