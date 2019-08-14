@@ -33,7 +33,7 @@ This means: send the audio with index 1, three times in loop, with volume set to
 
 # Audio Library
 
-The default library is waves.xwb, a Wave Bank. You can edit this (using waves.xap) or create more using XACT, the [Cross-platform Audio Creation Tool](https://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool). These libraries are loaded in memory and are very fast, for the least possible latency. The default library currently contains 6 very short waveforms, indexed from 0 to 5
+The default library is waves.xwb, a Wave Bank. You can edit this (using waves.xap) or create more using XACT, the [Cross-platform Audio Creation Tool](https://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool). These libraries are loaded in memory and are very fast, for the least possible latency. The default library currently contains 10 very short waveforms, indexed from 0 to 9
 
 ```
 0 - 40Hz
@@ -42,6 +42,10 @@ The default library is waves.xwb, a Wave Bank. You can edit this (using waves.xa
 3 - 80Hz
 4 - 100Hz
 5 - 120Hz
+6 - 140Hz
+7 - 160Hz
+8 - 180Hz
+9 - 200Hz
 ```
 
 ![Cross-platform Audio Creation Tool](https://github.com/mmorselli/OpenVR-Haptic-Injector/blob/master/media/XACT.png)
