@@ -29,7 +29,7 @@ This is an event, so in config.ini, in the [maps] section we can insert a line l
 0.3750000.000000200.000000=1,3,0.8
 ```
 
-This means: send the audio with index 1, three times in loop, with volume set to 0.8
+This means: send the audio with index 1, than repeat in loop for three times (set to 0 for a single shot), with volume set to 0.8 (A volume level of 1.0 means there is no attenuation or gain and 0 means silence. above 1.0 a gain is applied)
 
 # Audio Library
 
