@@ -58,9 +58,9 @@ Make the audio files as short as possible, a single wave is better
 
 # Using profiles
 
-Different games and devices may require a different reaction to haptic events, you can then create different profiles. Copy config.ini to a new file (i.e. my-game-on-static-rig.ini ), change the profile name in the [main] section (i.e. profile=My Game On Static Rig) and configure the new mapping. If you wish you can also define a different .xwb file in the [default] section. Start the program with the new .ini as the first argument
+Different games and devices may require a different reaction to haptic events, you can then create different profiles. Copy config.ini to a new file (i.e. onward.ini ), change the profile name in the [main] section (i.e. profile=Onward) and configure the new mapping. If you wish you can also define a different .xwb file in the [default] section. Start the program with the new .ini as the first argument
 
 ```
-"OpenVR Haptic Injector.exe" my-game-on-static-rig.ini
+"OpenVR Haptic Injector.exe" onward.ini
 ```
 
