@@ -44,7 +44,7 @@ The default library is waves.xwb, a Wave Bank. You can edit this (using waves.xa
 5 - 120Hz
 ```
 
-[Cross-platform Audio Creation Tool]!(https://github.com/mmorselli/OpenVR-Haptic-Injector/blob/master/media/XACT.png)
+![Cross-platform Audio Creation Tool](https://github.com/mmorselli/OpenVR-Haptic-Injector/blob/master/media/XACT.png)
 
 you can easily create new waveforms with free programs like [Audacity](https://www.audacityteam.org/)
 
